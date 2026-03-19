@@ -1,0 +1,38 @@
+<<<<<<< HEAD
+# local package
+-e .
+
+# external requirements
+click
+Sphinx
+coverage
+#awscli>=1.29.0
+flake8
+pandas
+#logging
+numpy 
+pathlib 
+scikit-learn
+imbalanced-learn
+joblib
+#sys
+=======
+# local package
+-e .
+
+# external requirements
+click
+Sphinx
+coverage
+#awscli>=1.29.0
+flake8
+pandas
+#logging
+numpy 
+pathlib 
+scikit-learn
+imbalanced-learn
+joblib
+#sys
+>>>>>>> 1289c6cac971fbf445ae870282c482e3c6953d56
+#json

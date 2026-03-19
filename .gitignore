@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+my_env/
+venv/
+
+# Data
+data/raw/
+data/preprocessed/
+
+# Models
+*.joblib
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+my_env/
+venv/
+
+# Data
+data/raw/
+data/preprocessed/
+
+# Models
+*.joblib
+
+# Build / packaging
+src.egg-info/
+build/
+dist/
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
